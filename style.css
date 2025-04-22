@@ -1,47 +1,47 @@
 body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    overflow: hidden;
-    font-family: sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;}
+   margin: 0;
+   padding: 0;
+   height: 100%;
+   overflow: hidden;
+   font-family: sans-serif;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;}
 
- .cartao{
-  position: absolute;
-  width: 400px;
-  height: 400px;
-  
-  
-  background-color: blue;
-  border-radius: 7%;
-  z-index: 2;
-  box-shadow:  1px 1px 10px 6px;
+.cartao{
+ position: absolute;
+ width: 400px;
+ height: 400px;
+ top: ;
+ left: ;
+ background-color: blue;
+ border-radius: 7%;
+ z-index: 2;
+ box-shadow:  1px 1px 10px 6px;
 
- }
- .background{
-  position: absolute;  
-  background-color:rgb(255, 0, 0);
-  width: 100%;
-  height: 100%;
-  z-index: 1;
- }
- .copy{
-    position: absolute;
-    color: red;
-    top: 440px;
-    
-    z-index: 3;
- }
- .imagem{
-    position: absolute;
-    width: 310px;
-    height: 310px;
-    top: 140px;
-    
-    z-index: 4;
- }
+}
+.background{
+ position: absolute;  
+ background-color:rgb(255, 0, 0);
+ width: 100%;
+ height: 100%;
+ z-index: 1;
+}
+.copy{
+   position: absolute;
+   color: red;
+   top: 440px;
+   left: ;
+   z-index: 3;
+}
+.imagem{
+   position: absolute;
+   width: 310px;
+   height: 310px;
+   top: 140px;
+   left: ;
+   z-index: 4;
+}
 
 
