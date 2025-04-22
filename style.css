@@ -13,8 +13,7 @@ body {
  position: absolute;
  width: 400px;
  height: 400px;
- top: ;
- left: ;
+ 
  background-color: blue;
  border-radius: 7%;
  z-index: 2;
@@ -32,7 +31,7 @@ body {
    position: absolute;
    color: red;
    top: 440px;
-   left: ;
+   
    z-index: 3;
 }
 .imagem{
@@ -40,7 +39,7 @@ body {
    width: 310px;
    height: 310px;
    top: 140px;
-   left: ;
+ 
    z-index: 4;
 }
 
